@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "39190884309",
+    "project_id": "golden-oil-41c57",
+    "storage_bucket": "golden-oil-41c57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39190884309:android:c26299bfbd1e253886175c",
+        "android_client_info": {
+          "package_name": "com.example.goldenoil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDqgGxdxyhROsfZT1-T1xlUfktOIgHYUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
